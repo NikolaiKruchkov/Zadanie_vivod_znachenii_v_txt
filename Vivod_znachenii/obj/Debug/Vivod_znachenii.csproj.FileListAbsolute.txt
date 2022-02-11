@@ -1,0 +1,5 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 4.1\Vivod_znachenii\Vivod_znachenii\bin\Debug\Vivod_znachenii.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 4.1\Vivod_znachenii\Vivod_znachenii\bin\Debug\Vivod_znachenii.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 4.1\Vivod_znachenii\Vivod_znachenii\obj\Debug\Vivod_znachenii.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 4.1\Vivod_znachenii\Vivod_znachenii\obj\Debug\Vivod_znachenii.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 4.1\Vivod_znachenii\Vivod_znachenii\obj\Debug\Vivod_znachenii.pdb

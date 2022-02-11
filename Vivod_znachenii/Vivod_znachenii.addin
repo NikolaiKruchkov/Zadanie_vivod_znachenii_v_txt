@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Vivod_znachenii.dll"</Assembly>		
+		<AddInId>59FFE495-6BAF-47D9-82C0-4538606A6A60</AddInId>		
+		<FullClassName>Vivod_znachenii.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Вывод значений</Text>
+	</AddIn>
+</RevitAddIns>
